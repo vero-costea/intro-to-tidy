@@ -1,2 +1,2 @@
-# intro-to-tidy
-DataCamp's Course on tidyvers
+# DataCamp courses
+Some DataCamp courses I went through
